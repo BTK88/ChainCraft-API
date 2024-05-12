@@ -1,7 +1,7 @@
 {
   "name": "nodejs-app",
   "version": "1.0.0",
-  "description": "My NodeJS Blockchain App",
+  "description": "ChainCraft Node.js App",
   "main": "server.mjs",
   "scripts": {
     "start": "node --env-file=config/config.env server.mjs",
