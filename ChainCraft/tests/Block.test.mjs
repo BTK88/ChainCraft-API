@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import Block from './Block.mjs';
+import Block from '../models/Block.mjs';
 
 describe('Block tests', () => {
   it('should create block with correct attributes', () => {
